@@ -23,4 +23,5 @@ Visitor pattern defines hierarchy of items – collections of paintings and hier
 
 Strategy pattern is used to divide users behavior. Manager and Visitor objects are extended from GalleryAppUser, so they can implement some operation in their own way and set specific behavior. Two types of behaviours are extended from common interface so they implement execute() method differently.
 
-In the future I plan to decrease the number of patterns used for flexibility of usage nd maintanance. And to create some swing interface at the least. Hope, that this project will grow into something useful :) 
+
+In the future I plan to decrease the number of patterns used for flexibility of usage and maintanance. And to create some swing interface at the least. Hope, that this project will grow into something useful :) 
