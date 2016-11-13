@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="TemplateNullObject.BaroquePainting" project="Term paper" 
+    file="/Term paper/src/TemplateNullObject/BaroquePainting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="511" y="108"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="TemplateNullObject.VelazquezPainting" project="Term paper" 
+    file="/Term paper/src/TemplateNullObject/VelazquezPainting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="205" y="196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="TemplateNullObject.VermeerPainting" project="Term paper" 
+    file="/Term paper/src/TemplateNullObject/VermeerPainting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="889" y="100"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="TemplateNullObject.CarracciPainting" project="Term paper" 
+    file="/Term paper/src/TemplateNullObject/CarracciPainting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="632" y="306"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="TemplateNullObject.BarocciPainting" project="Term paper" 
+    file="/Term paper/src/TemplateNullObject/BarocciPainting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="763" y="210"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="TemplateNullObject.CaravaggioPainting" project="Term paper" 
+    file="/Term paper/src/TemplateNullObject/CaravaggioPainting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="363" y="306"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="TemplateNullObject.NullPainting" project="Term paper" 
+    file="/Term paper/src/TemplateNullObject/NullPainting.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="67" y="89"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="8">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="9">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="10">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
